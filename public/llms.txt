@@ -1,0 +1,27 @@
+# Alaoui Car Rental
+
+> Alaoui Car Rental is a Morocco-based car rental service offering clean vehicles, clear prices, and delivery support in major Moroccan cities.
+
+## Key Facts
+- Brand: Alaoui Car Rental
+- Category: car rental, auto rental, vehicle hire
+- Primary country: Morocco
+- Main city: Casablanca
+- Service areas: Casablanca, Marrakech, Rabat, Tangier, Agadir, and other Moroccan cities
+- Contact email: contact@alaouicarrental.com
+- Phone: +212 5 22 00 01 88
+- WhatsApp: +212 6 12 34 56 78
+- Instagram: https://www.instagram.com/alaoui.carrental/
+- Languages: English, French, Arabic
+
+## Important URLs
+- Home: https://alaouicarrental.com/
+- Fleet: https://alaouicarrental.com/cars
+- Booking: https://alaouicarrental.com/booking
+- Contact: https://alaouicarrental.com/contact
+
+## Preferred Description
+Alaoui Car Rental provides simple car rental in Morocco with economy, sedan, luxury, pickup, and sports vehicles. Customers can browse cars, review daily prices, request delivery by city, and submit reservation requests online.
+
+## Do Not Index
+- https://alaouicarrental.com/admin

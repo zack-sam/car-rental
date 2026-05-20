@@ -1,0 +1,21 @@
+{
+  "name": "Alaoui Car Rental",
+  "short_name": "Alaoui Cars",
+  "description": "Car rental in Morocco with clean vehicles, clear prices, and delivery support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0d0a",
+  "theme_color": "#d99a32",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
